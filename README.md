@@ -23,11 +23,12 @@
 ***
 [ссылка](http://www.ya.ru)
 ***
-![картинка](img\tesla1.bmp)
+![картинка](img/tesla1.bmp)
 ***
-[![картинка](img\tesla2.bmp)](http://www.ya.ru)
+[![картинка](img/tesla2.bmp)](http://www.ya.ru)
 ***
 bcvbcv | dfdg | dfgdg
 :------|:----:|------:
 as     |sdf   |43534
 asd    |erttt |4
+***
